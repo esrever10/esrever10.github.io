@@ -32,7 +32,7 @@ tags: [jekyll, github, git, markdown]
 ## 过程记录
 
 ### 以下过程在ubuntu 12.04下进行
-1. apt-get安装rubygems之后，*gem install jekyll*安装jekyll，并用同样的gem命令安装directory_watcher、liquid、open4、maruku、classifier，rdiscount这几个包。Jekyll默认用maruku来解析markdown语言，你也可以用别的程序来解析，比如上面的rdiscount。
+1. apt-get安装rubygems之后，*gem install jekyll*安装jekyll， 在本地装这些东西呢其实是为了本地调试预览用的，不然你每次都要把改动提交到github然后才能看效果，并用同样的gem命令安装directory_watcher、liquid、open4、maruku、classifier，rdiscount这几个包。Jekyll默认用maruku来解析markdown语言，你也可以用别的程序来解析，比如上面的rdiscount。
 
 2. github上建立名为*username*.github.com的项目，其中*username*是你自己的github用户名。
 

@@ -34,7 +34,7 @@ tags: [Cocos2d-x 优化 翻译]
 恰好有这样一个工具集为你而准备的. 它们是苹果公司出品的工具, Allocations和Leaks.  
 你可以在Xcode中长按Run键然后选择Profile选项来选择这两个工具.  
 下面是截图:  
-![](https://raw.github.com/ellochen/Img-store/master/instruments.jpeg)  
+![](https://raw.github.com/esrever10/Img-store/master/instruments.jpeg)  
 你可以使用Allocation工具来监控你的程序内存使用情况, 并使用Leaks来观察内存泄露.  
 你仍然可以使用一些代码来获取关于程序内存使用的有用信息.  
 给出代码:  
