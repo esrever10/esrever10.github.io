@@ -1,10 +1,11 @@
 ---
-
 layout: post
 categories: [Game]
+tagline: "Supporting tagline"
 tags: [Cocos2d-x 优化 翻译]
-
 ---
+{% include JB/setup %}
+
 [原文地址](http://www.cocos2d-x.org/projects/cocos2d-x/wiki/How_to_optimise_memory_usage)  
 为了练习英语= =, 翻译了一篇cocos2d-x内存优化的文章, 发现文章本身并没有什么杀手级的优化手段, 所以请欣赏我精湛的翻译技巧.(逃...  
 不了解cocos2d-x的不用看了, 这不是一篇一般性的优化指导.  

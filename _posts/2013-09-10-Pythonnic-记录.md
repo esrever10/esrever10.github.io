@@ -1,10 +1,10 @@
 ---
-
 layout: post
 categories: [Programming language]
+tagline: "Supporting tagline"
 tags: [Python, Pythonnic, 技巧]
-
 ---
+{% include JB/setup %}
 
 1.map的使用  
 

@@ -1,10 +1,10 @@
 ---
-
 layout: post
 categories: [Algorithms]
+tagline: "Supporting tagline"
 tags: [算法, 最长递增子序列, LIS]
-
 ---
+{% include JB/setup %}
 
 ###问题:  
 有一个长为n的数列a[0], a[1], ..., a[n-1]. 请求出这个序列中最长的上升子序列的长度. 上升子序列指的是对于任意的i < j都满足a[i] < a[j]的子序列.  

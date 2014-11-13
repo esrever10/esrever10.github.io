@@ -1,10 +1,10 @@
 ---
-
 layout: post
 categories: [To-do]
+tagline: "Supporting tagline"
 tags: [简历, 自我介绍]
-
 ---
+{% include JB/setup %}
 
 ----------
 

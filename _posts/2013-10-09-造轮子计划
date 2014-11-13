@@ -1,10 +1,10 @@
 ---
-
 layout: post
 categories: [To-do]
+tagline: "Supporting tagline"
 tags: [造轮子, 做梦]
-
 ---
+{% include JB/setup %}
 
 学习算法真痛苦, 我这种人渣总是非得有大把的时间才会认真的学习, 边角时间我根本用不起来,   
 导致这算法一直停滞不前, 好痛苦.  

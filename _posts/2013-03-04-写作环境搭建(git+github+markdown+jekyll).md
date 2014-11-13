@@ -1,10 +1,10 @@
 ---
-
 layout: post
 categories: [Tools]
+tagline: "Supporting tagline"
 tags: [jekyll, github, git, markdown]
-
 ---
+{% include JB/setup %}
 
 ## 缘起
 

@@ -1,10 +1,10 @@
 ---
-
 layout: post
 categories: [algorithms]
+tagline: "Supporting tagline"
 tags: [Show-me-the-code, 约瑟夫环, 栈, 队列, 链表]
-
 ---
+{% include JB/setup %}
 
 ##介绍
 [Show me the code](http://site.douban.com/196781/widget/forum/12161503/discussion/51263191/)活动是我在[算法小站](http://site.douban.com/196781/)中举办的“*编程比赛*”，主要面向算法与数据结构的初学者，答题方式是向我建立的[Github项目](https://github.com/ellochen/Show-me-the-code)上提交自己的代码。这是第二届,题目及解答见[这里](https://github.com/ellochen/Show-me-the-code/tree/master/second)。第二届题目主要是对链表、栈、队列进行一次回顾。  

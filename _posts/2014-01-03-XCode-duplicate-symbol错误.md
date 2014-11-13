@@ -1,10 +1,10 @@
 ---
-
 layout: post
 categories: [System]
+tagline: "Supporting tagline"
 tags: [Xcode ,duplicate symbol, link, 静态库]
-
 ---
+{% include JB/setup %}
 
 项目里用到不少静态库, 编译通过了, link的时候真机没问题, 模拟器却死活link不过, 错误就是坑爹的duplicate symbol.
 我特么google好顿搜索, 什么合并静态库什去掉link选项之类的都试过, 还是不好用, 郁闷. 自己冷静分析一下原因, 
