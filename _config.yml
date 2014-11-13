@@ -15,6 +15,7 @@ author :
   email : esrever10@outlook.com
   github : esrever10
   weibo : clearver
+  douban : luoluoyou
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
@@ -98,8 +99,6 @@ JB :
   #        
   analytics :
     provider : custom 
-    google : 
-        tracking_id : 
     getclicky :
       site_id : 
     mixpanel :
