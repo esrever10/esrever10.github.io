@@ -13,9 +13,8 @@ tagline: JMP ESP
 author :
   name : Esrever10
   email : esrever10@outlook.com
-  github : https://github.com/esrever10
-  weibo : http://weibo.com/clearver
-  feedburner : feedname
+  github : esrever10
+  weibo : clearver
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
