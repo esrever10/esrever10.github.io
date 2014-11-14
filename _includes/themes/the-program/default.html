@@ -24,7 +24,14 @@
 						<li class="page"><a href="/pages.html">pages</a></li>
 						<li class="category"><a href="/categories.html">categories</a></li>
 						<li class="tag"><a href="/tags.html">tags</a></li>
-
+						<li class="Reddit"><a href="https://www.reddit.com/r/ReverseEngineering/">Reddit
+						</a></li>
+						<li class="Tuts4you"><a href="https://tuts4you.com/">Tuts4you
+						</a></li>
+						<li class="Kanxue"><a href="http://bbs.pediy.com/index.php">看雪
+						</a></li>
+						<li class="Wooyun"><a href="http://drops.wooyun.org/">Wooyun
+						</a></li>
 					</ul>
 				</nav>
 			</div><!-- unit-inner -->
@@ -60,6 +67,18 @@
 		</div><!-- unit-foot -->
 	</footer>
 </div><!-- page -->
+<script>
+	(function(d, s) {
+		var js, fjs = d.getElementsByTagName(s)[0], load = function(url, id) {
+		if (d.getElementById(id)) {return;}
+		js = d.createElement(s); js.src = url; js.id = id;
+		fjs.parentNode.insertBefore(js, fjs);
+		};
+	load('//platform.twitter.com/widgets.js', 'tweetjs');
+	// load('https://apis.google.com/js/plusone.js', 'gplus1js'); // Checkout http://j.mp/ApDgMr for usage html for this is <div class="g-plusone" data-size="medium"></div>
+	// load('//connect.facebook.net/en_US/all.js#xfbml=1', 'fbjssdk'); // Checkout http://j.mp/wZw2xR for using open graph protorol html for this is <div class="fb-like" data-href="{{ page.url }}" data-send="false" data-layout="button_count" data-width="450" data-show-faces="false" data-font="verdana"></div>
+	}(document, 'script'));
+</script>
 <script>
 /*! A fix for the iOS orientationchange zoom bug.Script by @scottjehl, rebound by @wilto. MIT License.*/
 (function(j){var i=j.document;if(!i.querySelectorAll){return}var l=i.querySelectorAll("meta[name=viewport]")[0],a=l&&l.getAttribute("content"),h=a+", maximum-scale=1.0",d=a+", maximum-scale=10.0",g=true,c=j.orientation,k=0;if(!l){return}function f(){l.setAttribute("content",d);g=true}function b(){l.setAttribute("content",h);g=false}function e(m){c=Math.abs(j.orientation);k=Math.abs(m.gamma);if(k>8&&c===0){if(g){b()}}else{if(!g){f()}}}j.addEventListener("orientationchange",f,false);j.addEventListener("deviceorientation",e,false)})(this);
