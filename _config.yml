@@ -11,11 +11,11 @@ highlighter: pygments
 title : Dlrow Eht Esrever
 tagline: JMP ESP
 author :
-  name : Esrever10
-  email : esrever10@outlook.com
+  name : esrever10
+  email : esrever10@outlook.com, esrever10@treehackers.com
   github : esrever10
-  weibo : clearver
-  douban : luoluoyou
+  Organization : [Cloudist](http://www.cloudist.cc), [Treehackers](https://github.com/Treehackers);
+  Playground : [CTFs-时间の小屋](http://treehackers.com)
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
